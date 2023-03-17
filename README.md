@@ -1,5 +1,5 @@
 # SQL-exercise
-Schemas, Questions &amp; Solutions for SQL Exercising
+Schemas, Questions &amp; Solutions for SQL Exercising 
 
 ## Introduction
 The schemas and questions are 
